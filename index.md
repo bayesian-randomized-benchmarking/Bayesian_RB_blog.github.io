@@ -4,8 +4,7 @@
 
 Notebooks can be found [here](https://github.com/bayesian-randomized-benchmarking/qiskit-advocates-bayes-RB)
 
-see for further details:
-https://github.com/qiskit-community/qiskit-advocate-mentorship-program/issues/20
+[see for further details this issue](https://github.com/qiskit-community/qiskit-advocate-mentorship-program/issues/20)
 
 You can use the [editor on GitHub](https://github.com/bayesian-randomized-benchmarking/Bayesian_RB_blog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
