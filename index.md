@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to our Blog
+
+## WORK IN PROGRESS
+
+Notebooks can be found [here](https://github.com/bayesian-randomized-benchmarking/qiskit-advocates-bayes-RB)
 
 You can use the [editor on GitHub](https://github.com/bayesian-randomized-benchmarking/Bayesian_RB_blog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
