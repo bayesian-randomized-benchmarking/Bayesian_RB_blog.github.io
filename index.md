@@ -6,6 +6,10 @@ Notebooks can be found [here](https://github.com/bayesian-randomized-benchmarkin
 
 [see for further details this issue](https://github.com/qiskit-community/qiskit-advocate-mentorship-program/issues/20)
 
+[poster presentation slides can be found here](https://docs.google.com/presentation/d/1wzlSSXaBD3wThvwXq_MNF094KZxzykcgJtXmrwm7CEE/edit#slide=id.gdb96136a73_2_72)
+
+[video_presentation avallable here](https://youtu.be/hngyCuLLqso)
+
 You can use the [editor on GitHub](https://github.com/bayesian-randomized-benchmarking/Bayesian_RB_blog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
